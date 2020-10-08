@@ -9,6 +9,7 @@ public class Principal extends Metodos{
 	static int comida, municion, sabiduria = 1;
 	static double suministros;
 	static int ninMax = 3;
+	
 
 	static int nivelMed = 1, nivelSol = 1, nivelCui = 1, nivelExp = 1, nivelAgr = 1;
 
